@@ -2,13 +2,13 @@
     "name": "Announcement",
     "alias": "announcement",
     "composer_package": "koakademy/announcement",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "School-wide announcements for administrators and portal users.",
     "author": "KoAkademy contributors",
     "license": "AGPL-3.0-or-later",
     "requires": {
-        "core": ">=1.20.0",
-        "php": ">=8.5",
+        "core": ">=1.29.0",
+        "php": ">=8.5.12 <8.6",
         "modules": {}
     },
     "compatibility": {
