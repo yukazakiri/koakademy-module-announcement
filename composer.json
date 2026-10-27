@@ -1,6 +1,16 @@
 {
     "name": "koakademy/announcement",
     "description": "School-wide announcements for administrators and portal users.",
+    "homepage": "https://github.com/yukazakiri/koakademy-module-announcement",
+    "keywords": [
+        "koakademy",
+        "school-management",
+        "announcement"
+    ],
+    "support": {
+        "issues": "https://github.com/yukazakiri/koakademy-module-announcement/issues",
+        "source": "https://github.com/yukazakiri/koakademy-module-announcement"
+    },
     "type": "library",
     "license": "AGPL-3.0-or-later",
     "authors": [
